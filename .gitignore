@@ -1,3 +1,12 @@
+# Project Specific
+events.json
+events/*.json
+
+
+
+
+# Jetbrains IDE
+.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
